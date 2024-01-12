@@ -13,6 +13,6 @@ pour admin
 
 6. On appui sur send
 7. On récupère le token
-8. on créer une nouvelle requête GET on va Autorisation et on prend BEARER token
+8. on créer une nouvelle requête GET on va Autorisation et on prend BEARER token : http://localhost:3000/posts
 9. Et la on met notre token
 10. Et magie ! ça marche, on récupère notre post !
