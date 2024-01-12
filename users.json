@@ -1,0 +1,6 @@
+{
+    "777": {"username": "admin", "admin": true, "password": "admin_password"},
+    "123": {"username": "bob", "admin": false, "password": "bob_password"},
+    "321": {"username": "alice", "admin": false, "password": "alice_password"}
+}
+  
